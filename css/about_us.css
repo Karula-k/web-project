@@ -1,0 +1,60 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+.big_box{
+  display: flex;
+}
+.text_box h1{
+  margin: 1em;
+  text-transform: uppercase;
+}
+.text_box h2{
+  height: 40%;
+  width: 70%;
+}
+.connect_box{
+  text-align: center;
+  position:relative;left: 97px;top: 354px;right: 1365px;bottom: 56px;
+  border-radius:20px;
+  width: 20em;
+  height: 8em;
+  line-height: 4em;
+  background: #88E244;
+  color: white;
+}
+.petani{
+  height: 815px;
+  width: 539px;
+}
+.connect_box h1{
+  display: inline-block;
+  vertical-align: middle;
+  line-height: normal;
+}
+footer{
+  position: fixed;
+  padding: 10px 10px 0px 10px;
+  bottom: 0;
+  width: 100%;
+  height: 120px;
+  background: #D2B48C;
+}
+div.contact_box{
+  position: absolute;visbility:visible;left: 42.3px;top: 42px;right: 1603px;bottom: 34px;
+  font-size: 10px;
+  color: #CC9759;
+  text-transform: uppercase;
+  width: : 276px;
+  height: 116px;
+}
+.contact_list{
+  display: flex;
+}
+.icons{
+  padding: 3px;
+  height: 2em;
+  width: 2em;
+  border-radius: 50%;
+  object-fit: contain;
+}
